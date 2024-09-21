@@ -1,4 +1,4 @@
-@document url("https://www.notion.so") {
+@document url-prefix("https://www.notion.so") {
 
     /* blue highlight */
     .notion-page-content *[style*="background:rgba(231, 243, 248, 1)"] {
