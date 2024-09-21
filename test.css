@@ -1,0 +1,23 @@
+@document url("https://www.notion.so") {
+
+    /* blue highlight */
+    .notion-page-content *[style*="background:rgba(231, 243, 248, 1)"] {
+        background: rgb(187, 187, 245) !important;
+    }
+
+    /* yellow highlight */
+    .notion-page-content *[style*="background:rgba(251, 237, 214, 1)"] {
+        background: yellow !important;
+    }
+
+    /* green highlight */
+    .notion-page-content *[style*="background:rgba(237, 243, 236, 1)"] {
+        background: rgb(152, 216, 152) !important;
+    }
+
+    /* red highlight */
+    .notion-page-content *[style*="background:rgba(253, 235, 236, 1)"] {
+        background: red !important;
+        color: white !important;
+    }
+}
